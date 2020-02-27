@@ -9,4 +9,9 @@ Holiday Package Project with  Angular + NativeScript (Complete Travel Holiday So
     Technology Use: Angular, NativeScript
     
     
- 2.  
+ 2.  Command 
+ 
+ 
+        `ng build --prod`
+        
+        
