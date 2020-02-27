@@ -8,3 +8,5 @@ Holiday Package Project with  Angular + NativeScript (Complete Travel Holiday So
     Used : Website , Android, Ios
     Technology Use: Angular, NativeScript
     
+    
+ 2.  
